@@ -21,6 +21,15 @@ remotes::install_github("yire-shin/non_stationary-GEV")
   result2 <- gado.prop_11(Trehafod$r1)
   print(result2)
 ```
+### Docs
+
+```r
+?nsgev::nsgev
+```
+
+```r
+?gsnev::gado.prop_11
+```
 
 ## Learn more
 
@@ -35,4 +44,5 @@ remotes::install_github("yire-shin/non_stationary-GEV")
 ## Citation
 
 Shin, Y., Shin, Y., Park, J. S. (2024). L-moment-based algorithm for nonstationary generalized extreme value model.
+
 -----
