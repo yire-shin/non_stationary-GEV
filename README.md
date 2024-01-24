@@ -28,7 +28,7 @@ remotes::install_github("yire-shin/non_stationary-GEV")
 ```
 
 ```r
-?gsnev::gado.prop_11
+?nsgev::gado.prop_11
 ```
 
 ## Learn more
