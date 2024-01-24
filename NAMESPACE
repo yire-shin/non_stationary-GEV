@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("methods", "is")
+importFrom("stats", "lm", "rnorm", "runif", "var")
+importFrom("lmomco", "TLmoms", "lmomgum", "lmoms", "pargev","vec2par")
+importFrom("nleqslv", "nleqslv")
+importFrom("robustbase", "lmrob")
