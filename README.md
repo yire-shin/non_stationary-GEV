@@ -39,10 +39,11 @@ remotes::install_github("yire-shin/non_stationary-GEV")
 
 - Yire Shin; Ph.D, Department of Mathematics and Statistics, Chonnam National University, Republic of Korea, [shinyire87@gmail.com]
 - Yonggwan Shin; Ph.D, Research & Development Center, XRAI Inc., Gwangju 61186, Korea, [syg.stat@gmail.com]
+- Sanghoo Yoon; Professor, Department of Statistics, Daegu University, Republic of Korea, [statstar@daegu.ac.kr]
 - Jeong-Soo Park; Professor, Department of Mathematics and Statistics, Chonnam National University, Republic of Korea, [jspark@jnu.ac.kr]
 
 ## Citation
 
-Shin, Y., Shin, Y., Park, J. S. (2024). L-moment-based algorithm for nonstationary generalized extreme value model.
+Shin, Y., Shin, Y., Yoon, S., Park, J. S. (2024). L-moment-based algorithm for nonstationary generalized extreme value model.
 
 -----
